@@ -1,0 +1,26 @@
+[
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\RacingGame\\RacingProject\\Source\\RacingProject\\RacingProject.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\RacingGame\\RacingProject\\.vscode\\compileCommands_RacingProject\\RacingProject.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\RacingGame\\RacingProject\\Source\\RacingProject\\RacingProject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\RacingGame\\RacingProject\\.vscode\\compileCommands_RacingProject\\RacingProject.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "E:\\GameDev\\UnrealEngine\\RacingGame\\RacingProject\\Source\\RacingProject\\RacingProject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\GameDev\\UnrealEngine\\RacingGame\\RacingProject\\.vscode\\compileCommands_RacingProject\\RacingProject.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	}
+]
